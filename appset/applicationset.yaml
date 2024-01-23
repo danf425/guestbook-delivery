@@ -5,7 +5,7 @@ metadata:
 spec:
   generators:
   - git:
-      repoURL: https://github.com/wings-software/guestbook-delivery.git
+      repoURL: https://github.com/danf425/guestbook-delivery.git
       revision: HEAD
       files:
       - path: "cluster-config/**/config.json"
@@ -17,9 +17,9 @@ spec:
         harness.io/serviceRef: '{{harness_service}}'
         harness.io/buildRef: '{{image_tag}}'
     spec:
-      project: 207bda4a
+      project: 3e147cc1
       source:
-        repoURL: https://github.com/wings-software/guestbook-delivery.git
+        repoURL: https://github.com/danf425/guestbook-delivery.git
         targetRevision: HEAD
         path: "base"
         kustomize:
