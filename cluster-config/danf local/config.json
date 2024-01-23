@@ -1,0 +1,5 @@
+{
+  "harness_service": "guestbook",
+  "environment": "Dev",
+  "image_tag": "test"
+}
