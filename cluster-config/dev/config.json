@@ -1,0 +1,5 @@
+{
+  "harness_service": "guestbookpr",
+  "environment": "dev",
+  "image_tag": "test"
+}
