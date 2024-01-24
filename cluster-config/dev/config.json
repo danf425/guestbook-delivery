@@ -1,5 +1,7 @@
 {
-  "harness_service" : "guestbookpr",
+  "cluster_name" : "dev-cluster",
+  "harness_service" : "guestbook-pr",
   "environment" : "dev",
-  "image_tag" : "blkjhl"
+  "server_address" : "https://kubernetes.default.svc",
+  "image_tag" : "0103-c059f3c-122"
 }
