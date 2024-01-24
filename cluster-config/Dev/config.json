@@ -1,5 +1,7 @@
 {
-  "harness_service" : "guestbook",
+  "cluster_name" : "dev-local-danf",
+  "harness_service" : "GuestBook_UI",
   "environment" : "Dev",
-  "image_tag" : "hkjgk"
+  "server_address" : "https://kubernetes.default.svc",
+  "image_tag" : "0103-c059f3c-122"
 }
