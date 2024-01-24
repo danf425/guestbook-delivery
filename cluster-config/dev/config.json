@@ -1,5 +1,5 @@
 {
   "harness_service" : "guestbookpr",
   "environment" : "dev",
-  "image_tag" : "dantest97"
+  "image_tag" : "blkjhl"
 }
