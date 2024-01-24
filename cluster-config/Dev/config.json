@@ -1,5 +1,5 @@
 {
   "harness_service" : "guestbook",
   "environment" : "Dev",
-  "image_tag" : "latest-1"
+  "image_tag" : "hkjgk"
 }
