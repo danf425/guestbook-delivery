@@ -1,6 +1,6 @@
 {
-  "cluster_name" : "qa-cluster",
-  "harness_service" : "GuestBook_UI",
+  "cluster_name" : "dev-local-danf",
+  "harness_service" : "guestbook-pr",
   "environment" : "qa",
   "server_address" : "https://35.224.207.9",
   "image_tag" : "0103-c059f3c-122"
